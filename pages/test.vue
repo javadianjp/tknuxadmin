@@ -1,0 +1,12 @@
+<template>
+  <v-card>
+    <v-card-title>
+      hello
+      <v-text-field
+            label="Solo"
+            placeholder="Placeholder"
+            solo
+          ></v-text-field>
+    </v-card-title>
+  </v-card>
+</template>
